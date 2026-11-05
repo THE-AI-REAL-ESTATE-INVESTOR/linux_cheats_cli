@@ -1,5 +1,11 @@
 # Linux Cheats CLI 🚀
 
+## About
+- **What it is:** A command-line tool with a web page that shows Linux command cheat sheets, built as a learning project.
+- **Business:** learning
+- **Status:** inactive since 2024-12
+- **Source:** agent research 2026-11-04
+
 A beautiful and interactive command-line tool for displaying Linux command cheat sheets with a modern web interface. Powered by The AI Real Estate Investor.
 
 Brought to you by [The AI Real Estate Investor](https://www.theairealestateinvestor.com)
